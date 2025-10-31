@@ -25,7 +25,6 @@ El formtato para nuestro archivo de texto es el siguiente:
 ```bash
 --edges # Archivo con las aritas y nodos
 --max-edges # Cantidad de aristas por grafo
---pdfs # Número de PDF a generar
 --inicial # Estado (nodo) inicial (por defecto A)
 --finales # Estados (nodos) finales (por defecto F)
 ```
