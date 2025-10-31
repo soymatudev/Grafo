@@ -1,4 +1,4 @@
-# Sistema de Grafo asi bien chonchamente perrones AOF
+# Sistema de Grafo asi bien chonchamente perrones AF
 
 Generamos un grafo a partir de las indicaciones dadas por un archivo de texto.
 
