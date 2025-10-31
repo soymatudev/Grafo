@@ -1,0 +1,6 @@
+A F 0
+A r 1
+r r 0
+r r 1
+F r 1
+F F 0
